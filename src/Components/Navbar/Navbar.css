@@ -10,10 +10,10 @@ nav{
     align-items: center;
     justify-content: space-between;
     z-index: 10;
-
+    height: 10vh;
 }
 .logo{
-    height: 6rem;
+    height: 5rem;
     /* width: 180px; */
 }
 
@@ -67,7 +67,7 @@ nav ul li{
     }
     .hide-mobile-menu{
         right:-200px;
-        
+
     }
 
 }

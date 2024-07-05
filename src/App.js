@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './Components/Navbar/Navbar.jsx';
 
-import BackgroundSlider from "./components/Background/BackgroundSlider";
+import BackgroundSlider from "./Components/Background/BackgroundSlider";
 
 function App()  {
   return (
