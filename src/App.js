@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './components/Navbar/Navbar.jsx';
+import Navbar from './Components/Navbar/Navbar.jsx';
 
 import BackgroundSlider from "./Components/Background/BackgroundSlider";
 
